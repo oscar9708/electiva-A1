@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "un curso de node js",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "colors": "^1.4.0",
+    "download": "^7.1.0",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "oscar",
+  "license": "ISC"
+}
